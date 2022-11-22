@@ -27,7 +27,7 @@ void fibonacci (int n ){
 int main() {
     int a = 0;
     cin >> a;
-    if (a>2){
+    if (a>=2){
         cout << "1" << endl;
         cout << "1" << endl;
 
